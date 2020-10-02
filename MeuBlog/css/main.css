@@ -64,7 +64,12 @@ main{
 }
 .informações{
 	padding-top: 100px;
+	
 }
 .pig{
 	padding-top: 100px;
+}
+.maisinformacoes{
+	margin-left:10%;
+	margin-right: 10%;
 }
